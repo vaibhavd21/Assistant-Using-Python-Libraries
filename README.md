@@ -1,6 +1,6 @@
 # Assistant-Using-Python-Libraries
 
-# This Python Assistance can do your daily works like
+This Python Assistance can do your daily works like
  Google searches
  YouTube surfing
  Opening your routine files or work by speaking just one word for it
